@@ -1,4 +1,4 @@
-Homework for CS181 UCLA Summer 2020 - Introduction Formal Languages and Automata Theory. Hold by Profressor Burgin. 
+Homework for CS181 UCLA Summer 2020 - Introduction Formal Languages and Automata Theory. Profressor Burgin. 
 | Homework | Grades  |
 | -------- | ------- |
 | HW1      | 100/100 |
