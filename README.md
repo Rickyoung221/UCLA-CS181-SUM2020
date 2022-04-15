@@ -8,3 +8,4 @@ Homework for CS181 UCLA Summer 2020 - Introduction Formal Languages and Automata
 | HW5    |   100/100      |
 
 Grade Received: A
+Please do not directly copy the answer. Thank you. :)
